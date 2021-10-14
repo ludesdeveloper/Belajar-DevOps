@@ -18,5 +18,14 @@ Di contoh diatas kita coba mendefiniskan bahwa a adalah 10. Di contoh ini kita m
 a = "Ludes Developer"
 ```
 Di contoh diatas kita coba mendefinisikan bahwa a adalah "Ludes Developer". Di contoh ini kita melakukan *assignment* dengan tipe string
-
+```
+a = [1,2,3]
+```
+Di contoh di atas kita mendefinisikan bahwa a adalah sebuah list/array yang berisikan tipe data integer
+```
+a = {"nama":"Seski Ramadhan","pekerjaan":"DevOps Engineer"}
+```
+Di contoh di atas kita mendefinisikan bahwa a adalah sebuah dictionary yang memiliki 2 key, yaitu "nama" yang memiliki value "Seski Ramadhan",
+dan "pekerjaan" yang memiliki value "DevOps Engineer"
+Mengerti
 
