@@ -61,3 +61,13 @@ for i in a:
 Pada contoh di atas kita memiliki a dengan tipe data list. a memiliki 3 nilai, yaitu 1, 2, dan 3. for i in a berarti disetiap
 i(i dalam hal ini adalah nilai yang ada di dalam a, yaitu 1 atau 2 atau 3). Di dalam program kita akan memuncul kan nilai i dengan
 menggunakan print
+
+Selain menggunakan "for", kita bisa juga menggunakan while
+```
+a = 1
+while a < 5:
+  print(a)
+  a = a + 1
+```
+Pada contoh di atas kita memiliki nilai awal a adalah 1, a = 1. Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, while a < 5,
+program akan memberikan output menggunakan print untuk value a, print(a)
