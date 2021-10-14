@@ -6,6 +6,7 @@ lebih mudah untuk dimengerti.
     1. [Assignment(Variable)](#assignmentvariable)
     2. [Condition](#condition)
     3. [Loop](#loop)
+    4. [Latihan](#latihan)
 ## **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
 1. Assignment(Variable)
