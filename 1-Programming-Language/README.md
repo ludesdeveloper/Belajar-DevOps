@@ -52,3 +52,12 @@ else:
 ```
 
 ## **Loop**
+Loop juga termasuk *Flow Control*, dimana kita bisa mengulang sesuatu.
+```
+a = [1,2,3]
+for i in a:
+  print(i)
+```
+Pada contoh di atas kita memiliki a dengan tipe data list. a memiliki 3 nilai, yaitu 1, 2, dan 3. for i in a berarti disetiap
+i(i dalam hal ini adalah nilai yang ada di dalam a, yaitu 1 atau 2 atau 3). Di dalam program kita akan memuncul kan nilai i dengan
+menggunakan print
