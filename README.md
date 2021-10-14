@@ -7,3 +7,4 @@ Selamat datang di Repository Belajar DevOps. Untuk apa saja yang akan kita pelaj
 ![Roadmap](./Roadmap.png)
 
 Untuk memulai, silahkan akses foldernya ya, ada README.md di setiap foldernya, selamat belajar.
+[Bahasa Pemrograman](https://github.com/ludesdeveloper/Belajar-DevOps/tree/master/1-Programming-Language)
