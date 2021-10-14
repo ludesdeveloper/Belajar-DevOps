@@ -5,7 +5,7 @@ Supaya mudah, anggap saja bahasa pemrograman itu adalah bahasa yang kita pakai s
 Orang Inggris akan menggunakan English. Orang Perancis akan menggunakan French, dan seterusnya ya temen temen. Setiap bahasa tersebut
 pastinya punya aturan masing masing. Ada yang punya past, present tense dan lain lain, dan ada yang lurus lurus saja seperti bahasa indonesia.
 Truz apa yang sama? Yang sama adalah setiap bahasa punya kemampuan untuk menginstruksikan sesuatu, dengan jelas. Truz sama kah dengan bahasa
-pemrograman? Sama, masing masing bahasa pemrograman itu punya cara yang berbeda untuk menginstruksikan perintah yang sama terhadap mesin 
+pemrograman? Sama, masing masing **bahasa pemrograman itu punya cara yang berbeda untuk menginstruksikan perintah yang sama terhadap mesin.** 
 
 ## **Ngapain sih, Belajar Bahasa Pemrograman?**
 Belajar bahasa pemrograman itu bwanyak levelnya. Ada yang memang dipelajari karena kita mau jadi developer. Ada juga yang dipelajari karena
