@@ -4,9 +4,9 @@ lebih mudah untuk dimengerti.
 
 ## **DAFTAR ISI**
 1. 3 Hal Penting Dalam Pemrograman
-  1. [Assignment(Variable)](#assignmentvariable)
-  2. [Condition](#condition)
-  3. [Loop](#loop)
+    1. [Assignment(Variable)](#assignmentvariable)
+    2. [Condition](#condition)
+    3. [Loop](#loop)
 
 ## **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
