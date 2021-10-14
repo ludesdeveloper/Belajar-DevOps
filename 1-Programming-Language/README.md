@@ -38,7 +38,7 @@ a = 10
 if a == 10:
   print("Nilai a adalah 10")
 ```
-Pada contoh di atas kita melakukan kondisi, jika a == 10, yaitu jika nilai a adalah 10, maka program akan menuliskan "Nilai a adalah 10"
+Pada contoh di atas kita melakukan kondisi, jika "a == 10", yaitu jika nilai a adalah 10, maka program akan menuliskan "Nilai a adalah 10"
 
 Kita juga bisa menambahkan opsi lain dengan "elif" dan "else"
 ```
@@ -58,7 +58,7 @@ a = [1,2,3]
 for i in a:
   print(i)
 ```
-Pada contoh di atas kita memiliki a dengan tipe data list. a memiliki 3 nilai, yaitu 1, 2, dan 3. for i in a berarti disetiap
+Pada contoh di atas kita memiliki a dengan tipe data list. a memiliki 3 nilai, yaitu 1, 2, dan 3. "for i in a" berarti disetiap
 i(i dalam hal ini adalah nilai yang ada di dalam a, yaitu 1 atau 2 atau 3). Di dalam program kita akan memuncul kan nilai i dengan
 menggunakan print
 
@@ -69,5 +69,8 @@ while a < 5:
   print(a)
   a = a + 1
 ```
-Pada contoh di atas kita memiliki nilai awal a adalah 1, a = 1. Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, while a < 5,
-program akan memberikan output menggunakan print untuk value a, print(a)
+Pada contoh di atas kita memiliki nilai awal a adalah 1, "a = 1". Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, "while a < 5",
+program akan memberikan output menggunakan print untuk value a, "print(a)"
+
+## **LATIHAN**
+> Buat sebuah program
