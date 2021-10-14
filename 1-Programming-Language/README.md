@@ -4,10 +4,9 @@ lebih mudah untuk dimengerti.
 
 ## **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
-1. Assignment(Variable)
-1. [Assignment(Variable)](#assignment(variable))
-2. Condition
-3. Loop
+1. [Assignment(Variable)](#assignmentvariable)
+2. [Condition](#condition)
+3. [Loop](#loop)
 
 ## **Assignment(Variable)**
 Variable adalah sesuatu yang kita bisa *assign* value terhadapnya.
@@ -51,3 +50,5 @@ elif a < 5:
 else:
   print("Nilai a adalah yang lain")
 ```
+
+## **Loop**
