@@ -2,11 +2,18 @@
 Kali ini kita akan belajar bahasa pemrograman. Saya memilih python agar lebih mudah, karena memang syntax yang lebih simple, sehingga
 lebih mudah untuk dimengerti. 
 
+## **DAFTAR ISI**
+1. 3 Hal Penting Dalam Pemrograman
+  1. [Assignment(Variable)](#assignmentvariable)
+  2. [Condition](#condition)
+  3. [Loop](#loop)
+
 ## **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
-1. [Assignment(Variable)](#assignmentvariable)
-2. [Condition](#condition)
-3. [Loop](#loop)
+1. Assignment(Variable)
+2. Conditional
+3. Loop
+
 
 ## **Assignment(Variable)**
 Variable adalah sesuatu yang kita bisa *assign* value terhadapnya.
