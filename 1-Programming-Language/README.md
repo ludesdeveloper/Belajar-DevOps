@@ -73,4 +73,5 @@ Pada contoh di atas kita memiliki nilai awal a adalah 1, "a = 1". Lalu kita akan
 program akan memberikan output menggunakan print untuk value a, "print(a)"
 
 ## **LATIHAN**
-> Buat sebuah program
+> Dengan menggunakan bahasa python, buat sebuah program yang akan melakukan print "Belajar DevOps" sebanyak 5 kali (menggunakan "for"), dan
+akan melakukan print "Belajar Sambil Berbagi" pada pengulangan kedua (pengulangan dimulai dari pengulangan pertama, kedua, ketiga, dan seterusnya) 
