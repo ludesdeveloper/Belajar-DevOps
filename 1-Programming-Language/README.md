@@ -57,7 +57,6 @@ elif a < 5:
 else:
   print("Nilai a adalah yang lain")
 ```
-
 ## **Loop**
 Loop juga termasuk *Flow Control*, dimana kita bisa mengulang sesuatu.
 ```
@@ -76,7 +75,6 @@ for index, i enumerate(a):
   print(index)
   print(i)
 ```
-
 Selain menggunakan "for", kita bisa juga menggunakan while
 ```
 a = 1
@@ -86,11 +84,6 @@ while a < 5:
 ```
 Pada contoh di atas kita memiliki nilai awal a adalah 1, "a = 1". Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, "while a < 5",
 program akan memberikan output menggunakan print untuk value a, "print(a)"
-
-```
-
-```
-
 ## **LATIHAN**
 > Dengan menggunakan bahasa pemrograman python, buat sebuah program yang akan melakukan print "Belajar DevOps" sebanyak 5 kali
 (menggunakan "for"), dan akan melakukan print "Belajar Sambil Berbagi" pada pengulangan kedua (pengulangan dimulai dari pengulangan pertama,
