@@ -1,20 +1,16 @@
 # BAHASA PEMROGRAMAN (PROGRAMMING LANGUAGE)
 Kali ini kita akan belajar bahasa pemrograman. Saya memilih python agar lebih mudah, karena memang syntax yang lebih simple, sehingga
 lebih mudah untuk dimengerti. 
-
 ## **DAFTAR ISI**
 1. [3 Hal Penting Dalam Pemrograman](#3-hal-penting-dalam-pemrograman)
     1. [Assignment(Variable)](#assignmentvariable)
     2. [Condition](#condition)
     3. [Loop](#loop)
-
 ## **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
 1. Assignment(Variable)
 2. Conditional
 3. Loop
-
-
 ## **Assignment(Variable)**
 Variable adalah sesuatu yang kita bisa *assign* value terhadapnya.
 ```
@@ -37,7 +33,6 @@ dan "pekerjaan" yang memiliki value "DevOps Engineer".
 
 Mengetahui variable dan tipe data sangat penting. Kita akan berhadapan dengan banyak tipe kasus. Setiap kasus biasanya punya tipe data yang
 memang cocok untuk kasus tersebut.
-
 ## **Condition**
 Condition disebut juga *Flow Control*, dimana kita bisa melakukan sesuatu dikondisi tertentu.
 ```
