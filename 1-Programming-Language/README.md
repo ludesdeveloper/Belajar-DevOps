@@ -3,7 +3,7 @@ Kali ini kita akan belajar bahasa pemrograman. Saya memilih python agar lebih mu
 lebih mudah untuk dimengerti. 
 
 ## **DAFTAR ISI**
-1. 3 Hal Penting Dalam Pemrograman
+1. [3 Hal Penting Dalam Pemrograman](#3-hal-penting-dalam-pemrograman)
     1. [Assignment(Variable)](#assignmentvariable)
     2. [Condition](#condition)
     3. [Loop](#loop)
