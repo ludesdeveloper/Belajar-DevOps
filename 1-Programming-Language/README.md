@@ -62,6 +62,14 @@ Pada contoh di atas kita memiliki a dengan tipe data list. a memiliki 3 nilai, y
 i(i dalam hal ini adalah nilai yang ada di dalam a, yaitu 1 atau 2 atau 3). Di dalam program kita akan memuncul kan nilai i dengan
 menggunakan print
 
+Kita juga bisa mengakses index dari pengulangan yang kita lakukan
+```
+a = [1,2,3]
+for index, i enumerate(a):
+  print(index)
+  print(i)
+```
+
 Selain menggunakan "for", kita bisa juga menggunakan while
 ```
 a = 1
@@ -71,6 +79,10 @@ while a < 5:
 ```
 Pada contoh di atas kita memiliki nilai awal a adalah 1, "a = 1". Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, "while a < 5",
 program akan memberikan output menggunakan print untuk value a, "print(a)"
+
+```
+
+```
 
 ## **LATIHAN**
 > Dengan menggunakan bahasa pemrograman python, buat sebuah program yang akan melakukan print "Belajar DevOps" sebanyak 5 kali
