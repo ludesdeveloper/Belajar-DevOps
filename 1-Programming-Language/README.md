@@ -27,5 +27,6 @@ a = {"nama":"Seski Ramadhan","pekerjaan":"DevOps Engineer"}
 ```
 Di contoh di atas kita mendefinisikan bahwa a adalah sebuah dictionary yang memiliki 2 key, yaitu "nama" yang memiliki value "Seski Ramadhan",
 dan "pekerjaan" yang memiliki value "DevOps Engineer"
+
 Mengerti
 
