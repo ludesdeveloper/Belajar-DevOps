@@ -11,7 +11,7 @@ Di contoh di atas kita menggunakan mode *write* untuk membuat file.
 ```
 read_file = open("belajardevops.txt","r")
 read_words = read_file.readlines()
-print(read_file)
+print(read_words)
 read_file.close()
 ```
 Di contoh di atas kita menggunakan mode *read* untuk membaca file.
