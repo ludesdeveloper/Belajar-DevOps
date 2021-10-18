@@ -8,6 +8,12 @@ def fungsiSaya():
 ```
 ### **Menggunakan Fungsi**
 ```
-fungsiSaya()
+fungsiSaya() # cara memanggil fungsi adalah dengan mengetikkan ulang namanya dan menambahkan "()" diujung nama fungsi
 ```
-
+### **Memberikan Value Terhadap Fungsi**
+```
+stringSaya = "Fungsi untuk print"
+def fungsiSaya(stringValue):
+  print(stringValue)
+fungsiSaya(stringSaya)
+```
