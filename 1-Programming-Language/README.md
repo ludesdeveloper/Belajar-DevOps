@@ -1,18 +1,18 @@
 # BAHASA PEMROGRAMAN (PROGRAMMING LANGUAGE)
 Kali ini kita akan belajar bahasa pemrograman. Saya memilih python agar lebih mudah, karena memang syntax yang lebih simple, sehingga
 lebih mudah untuk dimengerti. 
-## **DAFTAR ISI**
+### **DAFTAR ISI**
 1. [3 Hal Penting Dalam Pemrograman](#3-hal-penting-dalam-pemrograman)
     1. [Assignment(Variable)](#assignmentvariable)
     2. [Condition](#condition)
     3. [Loop](#loop)
     4. [Latihan](#latihan)
-## **3 Hal Penting Dalam Pemrograman**
+### **3 Hal Penting Dalam Pemrograman**
 Setiap orang punya pendapat berbeda terhadap pemrograman, saya pribadi menganggap 3 hal ini adalah core dari programming.
 1. Assignment(Variable)
 2. Conditional
 3. Loop
-## **Assignment(Variable)**
+### **Assignment(Variable)**
 Variable adalah sesuatu yang kita bisa *assign* value terhadapnya.
 ```
 a = 10
@@ -34,7 +34,7 @@ dan "pekerjaan" yang memiliki value "DevOps Engineer".
 
 Mengetahui variable dan tipe data sangat penting. Kita akan berhadapan dengan banyak tipe kasus. Setiap kasus biasanya punya tipe data yang
 memang cocok untuk kasus tersebut.
-## **Condition**
+### **Condition**
 Condition disebut juga *Flow Control*, dimana kita bisa melakukan sesuatu dikondisi tertentu.
 ```
 a = 10
@@ -53,7 +53,7 @@ elif a < 5:
 else:
   print("Nilai a adalah yang lain")
 ```
-## **Loop**
+### **Loop**
 Loop juga termasuk *Flow Control*, dimana kita bisa mengulang sesuatu.
 ```
 a = [1,2,3]
@@ -80,7 +80,7 @@ while a < 5:
 ```
 Pada contoh di atas kita memiliki nilai awal a adalah 1, "a = 1". Lalu kita akan menggunakan while, saat kondisi a kurang dari 5, "while a < 5",
 program akan memberikan output menggunakan print untuk value a, "print(a)"
-## **LATIHAN**
+### **LATIHAN**
 > Dengan menggunakan bahasa pemrograman python, buat sebuah program yang akan melakukan print "Belajar DevOps" sebanyak 5 kali
 (menggunakan "for"), dan akan melakukan print "Belajar Sambil Berbagi" pada pengulangan kedua (pengulangan dimulai dari pengulangan pertama,
 kedua, ketiga, dan seterusnya) 
