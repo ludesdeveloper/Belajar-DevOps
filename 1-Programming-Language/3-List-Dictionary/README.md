@@ -67,7 +67,6 @@ listInsideDictionary = {
 }
 ```
 ### **LATIHAN**
->
 ```
 myInfo = [
 {
@@ -84,3 +83,5 @@ myInfo = [
 }
 ]
 ```
+> Dengan menggunakan bahasa pemrograman python, buat sebuah program yang akan melakukan print terhadap "key" cdp_device index ke 0.
+Gunakan iterasi di dalam program tersebut.
