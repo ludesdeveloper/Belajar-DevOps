@@ -15,3 +15,7 @@ print(read_words)
 read_file.close()
 ```
 Di contoh di atas kita menggunakan mode *read* untuk membaca file.
+### **LATIHAN**
+> Dengan menggunakan bahasa pemrograman python, buat sebuah program yang akan membuat file bernama belajarpython.txt, lalu ketikkan
+"Saya suka belajar bahasa pemrograman" didalamnya. Setelah selesai menulis file, perintahkan program untuk membaca kata kata yang ada
+di dalam file belajarpython.txt
