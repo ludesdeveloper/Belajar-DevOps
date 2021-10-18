@@ -66,3 +66,21 @@ listInsideDictionary = {
   "cdp_device" : ["SWITCH-B","ROUTER-A","IPPHONE-A"]
 }
 ```
+### **LATIHAN**
+>
+```
+myInfo = [
+{
+  "device" : "SWITCH-A",
+  "cdp_device" : ["SWITCH-B","ROUTER-A","IPPHONE-A"]
+},
+{
+  "device" : "SWITCH-B",
+  "cdp_device" : ["SWITCH-A","IPPHONE-B"]
+}
+{
+  "device" : "SWITCH-C",
+  "cdp_device" : ["SWITCH-A","IPPHONE-C"]
+}
+]
+```
