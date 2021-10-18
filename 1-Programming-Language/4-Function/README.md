@@ -14,7 +14,7 @@ fungsiSaya() # cara memanggil fungsi adalah dengan mengetikkan ulang namanya dan
 ```
 stringSaya = "Fungsi untuk print" # mendefinisikan sebuah string yang bernilai "Fungsi untuk print"
 def fungsiSaya(stringValue):      # membuat sebuah fungsi dan membuat variable baru bernama "stringValue" yang mana kita akan melemparkan
-                                    string terhadapnya
+                                  # string terhadapnya
   print(stringValue)              # mengambil value "stringValue" lalu melakukan print 
 fungsiSaya(stringSaya)            # memanggil fungsi dan melemparkan nilai "stringSaya"
 ```
