@@ -6,3 +6,8 @@ Untuk membuat fungsi dalam python, kita membutuhkan "def".
 def fungsiSaya():
   print("Fungsi untuk print")
 ```
+### **Menggunakan Fungsi**
+```
+fungsiSaya()
+```
+
