@@ -62,7 +62,7 @@ dictionaryInsideList = [
 ### **List di Dalam Dictionary**
 ```
 listInsideDictionary = {
-  "device" : "SWITCH-A"
+  "device" : "SWITCH-A",
   "cdp_device" : ["SWITCH-B","ROUTER-A","IPPHONE-A"]
 }
 ```
