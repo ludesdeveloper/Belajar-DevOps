@@ -1,9 +1,8 @@
-# FILES - BAHASA PEMROGRAMAN (PROGRAMMING LANGUAGE)
-Memanipulasi files adalah salah satu pekerjaan yang cukup sering dilakukan untuk kebutuhan sehari hari.
-### **Membuat file**
-Untuk memanipulasi file, kita bisa menggunakan keyword "open" di dalam python.
+# COMMENT - BAHASA PEMROGRAMAN (PROGRAMMING LANGUAGE)
+Pada saat membuat code, kita bisa memberikan komentar untuk code yang kita sedang buat, ini akan mempermudah pembaca untuk lebih
+mengerti terhadap code yang sedang kita kerjakan
+### **Menggunakan (#)**
+Kita dapat menggunakan "#" untuk memberikan komentar yang biasanya hanya 1 baris
 ```
-write_file = open("belajardevops.txt","w")
-write_file.write("Mari Belajar DevOps")
-write_file.close()
+
 ```
