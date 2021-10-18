@@ -32,5 +32,10 @@ myDictionary = {
   "website" : "ludes developer",
   "linkedin" : "https://www.linkedin.com/in/seski-ramadhan/"
 }
-print(myDictionary["nama"])
+print(myDictionary["nama"]) # kita bisa mengakses "key" tertentu dalam dictionary
+```
+### **CONTOH LAIN**
+### **List di Dalam List**
+```
+listInsideList = [1,2,3,[1,2,3],[3]]
 ```
