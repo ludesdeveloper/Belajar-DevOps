@@ -39,3 +39,23 @@ print(myDictionary["nama"]) # kita bisa mengakses "key" tertentu dalam dictionar
 ```
 listInsideList = [1,2,3,[1,2,3],[3]]
 ```
+### **Dictionary di Dalam List**
+```
+dictionaryInsideList = [
+{
+  "nama" : "Seski Ramadhan",
+  "website" : "ludes developer",
+  "linkedin" : "https://www.linkedin.com/in/seski-ramadhan/"
+},
+{
+  "nama" : "Luthfi Anandra",
+  "website" : "ludes developer",
+  "linkedin" : "https://www.linkedin.com/in/luthfi-anandra/"
+},
+{
+  "nama" : "Dedy Darisman",
+  "website" : "ludes developer",
+  "linkedin" : "https://www.linkedin.com/in/dedydar/"
+}
+]
+```
