@@ -12,8 +12,9 @@ fungsiSaya() # cara memanggil fungsi adalah dengan mengetikkan ulang namanya dan
 ```
 ### **Memberikan Value Terhadap Fungsi**
 ```
-stringSaya = "Fungsi untuk print"
-def fungsiSaya(stringValue):
-  print(stringValue)
-fungsiSaya(stringSaya)
+stringSaya = "Fungsi untuk print" # mendefinisikan sebuah string yang bernilai "Fungsi untuk print"
+def fungsiSaya(stringValue):      # membuat sebuah fungsi dan membuat variable baru bernama "stringValue" yang mana kita akan melemparkan
+                                    string terhadapnya
+  print(stringValue)              # mengambil value "stringValue" lalu melakukan print 
+fungsiSaya(stringSaya)            # memanggil fungsi dan melemparkan nilai "stringSaya"
 ```
