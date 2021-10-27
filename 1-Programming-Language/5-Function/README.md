@@ -17,3 +17,8 @@ def fungsiSaya(stringValue):      # membuat sebuah fungsi dan membuat variable b
   print(stringValue)              # mengambil value "stringValue" lalu melakukan print 
 fungsiSaya(stringSaya)            # memanggil fungsi dan melemparkan nilai "stringSaya"
 ```
+### **LATIHAN**
+> Dengan menggunakan bahasa pemrograman python, buatlah sebuah program yang memiliki fungsi untuk membaca dan melakukan print terhadap isi
+dari file. Buatlah 2 file, file pertama bernama file_1.txt, dan ketikkan "Saya belajar DevOps 1", file kedua bernama file_2.txt dan ketikkan
+"Saya belajar DevOps 2". Buat code agar program bisa membaca dan melakukan print terhadap file_1.txt dan file_2.txt.
+
