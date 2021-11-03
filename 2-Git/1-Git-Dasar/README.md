@@ -72,4 +72,5 @@ output
 On branch master
 nothing to commit, working tree clean
 ```
+### **LATIHAN**
 > Buatlah sebuah repository di GitHub yang memiliki file di atas "belajar-git" 
