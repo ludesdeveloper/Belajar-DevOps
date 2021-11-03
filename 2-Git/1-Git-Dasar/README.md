@@ -55,3 +55,9 @@ Changes to be committed:
 ```
 git commit -m "menambahkan file belajar-git"
 ```
+output
+```
+[master (root-commit) c370219] menambahkan file belajar-git
+ 1 file changed, 1 insertion(+)
+ create mode 100644 belajar-git
+```
