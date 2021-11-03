@@ -51,3 +51,7 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 	new file:   belajar-git
 ```
+6. Melakukan commit atau save terhadap perubahan
+```
+git commit -m "menambahkan file belajar-git"
+```
