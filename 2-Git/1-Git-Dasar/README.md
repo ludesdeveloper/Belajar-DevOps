@@ -37,3 +37,17 @@ Bisa kita lihat disini bahwa ada 1 file yang masih belum di-track oleh git.
 ```
 git add belajar-git
 ```
+Check kembali menggunakan git status
+```
+git status
+```
+output
+```
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   belajar-git
+```
