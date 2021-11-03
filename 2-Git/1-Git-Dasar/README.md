@@ -32,4 +32,8 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
-
+Bisa kita lihat disini bahwa ada 1 file yang masih belum di-track oleh git.
+5. Tambahkan untracked file ke staging area
+```
+git add belajar-git
+```
