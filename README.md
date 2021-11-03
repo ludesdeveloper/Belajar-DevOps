@@ -9,4 +9,6 @@ Selamat datang di Repository Belajar DevOps. Untuk apa saja yang akan kita pelaj
     3. [List & Dictionary](https://github.com/ludesdeveloper/Belajar-DevOps/tree/master/1-Programming-Language/3-List-Dictionary)
     3. [Manipulasi File(Files)](https://github.com/ludesdeveloper/Belajar-DevOps/tree/master/1-Programming-Language/4-Files)
     4. [Fungsi(Function)](https://github.com/ludesdeveloper/Belajar-DevOps/tree/master/1-Programming-Language/5-Function)
+2. Git Dasar
+    1. [Git Dasar](https://github.com/ludesdeveloper/Belajar-DevOps/tree/master/2-Git/1-Git-Dasar)
 
