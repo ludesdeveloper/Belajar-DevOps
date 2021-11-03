@@ -12,4 +12,16 @@ touch belajar-git
 ```
 belajar git 1
 ```
+3. Inisialisasi git di dalam folder
+```
+git init
+```
+4. Mari kita check dulu dengan menggunakan git status
+```
+git status
+```
+output
+```
+
+```
 
