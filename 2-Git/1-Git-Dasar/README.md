@@ -1,7 +1,7 @@
 # GIT DASAR (GIT)
 Git bisa kita katakan adalah mesin waktu yang kita dapat gunakan untuk bisa melakukan tracking terhadap perubahan, bahkan kembali ke masa
 lampau bila terjadi kesalahan.
-### **Inisialisasi (#)**
+### **Inisialisasi**
 1. Mari kita buat sebuah folder dan sebuah file dulu ya.
 ```
 mkdir belajar-git
@@ -33,7 +33,8 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 Bisa kita lihat disini bahwa ada 1 file yang masih belum di-track oleh git.
-5. Tambahkan untracked file ke staging area
+### **Staging File**
+1. Tambahkan untracked file ke staging area
 ```
 git add belajar-git
 ```
@@ -51,7 +52,8 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 	new file:   belajar-git
 ```
-6. Melakukan commit atau save terhadap perubahan
+### **Commit**
+1. Melakukan commit atau save terhadap perubahan
 ```
 git commit -m "menambahkan file belajar-git"
 ```
