@@ -72,5 +72,6 @@ output
 On branch master
 nothing to commit, working tree clean
 ```
+Tutorial tambahan (link)[https://ludesdeveloper.wordpress.com/2021/06/17/basic-penggunaan-git/]
 ### **LATIHAN**
 > Buatlah sebuah repository di GitHub yang memiliki file di atas "belajar-git" 
