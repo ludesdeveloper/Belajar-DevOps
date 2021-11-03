@@ -61,3 +61,12 @@ output
  1 file changed, 1 insertion(+)
  create mode 100644 belajar-git
 ```
+lakukan pengecekan menggunakan git status
+```
+git status
+```
+output
+```
+On branch master
+nothing to commit, working tree clean
+```
